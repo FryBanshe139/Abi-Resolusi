@@ -1,0 +1,10 @@
+yg akan dipelajari 
+-java
+-javascript
+-c
+-c++
+-django
+-python
+ *framework
+ *learning
+-php
